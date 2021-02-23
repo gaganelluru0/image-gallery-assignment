@@ -1,0 +1,8 @@
+export const GET_IMAGES='getImagesData'
+export const GET_ERROR='getErrorData'
+export const GET_IMAGE_BY_ID='getImageById'
+export const DELETE_IMAGE='deleteImage'
+export const DOWNLOAD_IMAGE='downloadImage'
+export const NEXT_PAGE='changeUrlToNext'
+export const PREVIOUS_PAGE='changeUrlToPrevious'
+export const CHANGE_LIMIT='changePageLimit'
